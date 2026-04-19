@@ -1,4 +1,4 @@
-# Hi 👋 My name is YOUR_NAME
+# Hi 👋 My name is Vivek 
 
 ### 🚀 About Me
 - 🎓 High Schooler / Student / Developer
