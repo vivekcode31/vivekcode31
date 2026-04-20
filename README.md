@@ -3,9 +3,9 @@
 ### 🚀 About Me
 - 🎓 High Schooler / Student / Developer
 - 💻 Self-taught programmer
-- 🌱 Currently learning: React / Next.js / Python
+- 🌱 learned: React / Next.js / Python / Solidity 
 - 🤝 Open to collaborating on projects
-- 📫 Contact: your@email.com
+- 📫 Contact: vivek231b396@gmail.com
 
 ---
 
