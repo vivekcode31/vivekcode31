@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 High Schooler / Student / Developer
 - 💻 Self-taught programmer
-- 🌱 learned: React / Next.js / Python / Solidity 
+- 🌱 learned: React / Next.js / Python / Solidity / C++
 - 🤝 Open to collaborating on projects
 - 📫 Contact: vivek231b396@gmail.com
 
