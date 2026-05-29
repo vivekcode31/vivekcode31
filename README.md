@@ -39,4 +39,4 @@
 ---
 
 ### ✨ Fun Fact
-> I love building cool stuff and learning new tech 🚀
+> I love building cool stuff and learning new technologies 🚀
